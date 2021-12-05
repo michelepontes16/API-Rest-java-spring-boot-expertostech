@@ -1,6 +1,6 @@
 # API-Rest-java-spring-boot-expertostech
 
-Conexão do DbVisualizer com o MySQL
+<br> Conexão do DbVisualizer com o MySQL <br/>
 Criação de um projeto Spring Boot
 Importação do projeto no IntelliJ
 Criação de API Rest Básica
